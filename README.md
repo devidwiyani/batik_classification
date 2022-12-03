@@ -7,3 +7,5 @@ Google Colab : https://colab.research.google.com/drive/1-1v2tATCgS_HpEDOrCN9fKmz
 
 
 Percobaan model VGG-19: https://colab.research.google.com/drive/1tkKgVQYBC2f5hljAlFsXNEfllaiRQZUU?usp=sharing
+
+Percobaan model fully CNN: https://colab.research.google.com/drive/1VXwiIRC8XTVNQtuLJMgTSHeI5uroriDt?usp=sharing
